@@ -1,0 +1,24 @@
+# Framework web y servidor
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# Validación de datos
+pydantic==2.7.1
+
+# Soporte para carga de archivos en FastAPI
+python-multipart==0.0.9
+
+# Lector de PDFs
+PyMuPDF==1.24.1
+
+# Cliente HTTP asíncrono para las APIs
+httpx[http2]==0.27.0
+
+# SDK oficial de Google para Gemini
+google-generativeai==0.6.0
+
+# SDK oficial de Perplexity
+perplexity-ai==0.0.0.1a5
+
+# Para manejar variables de entorno (API keys)
+python-dotenv==1.0.1
